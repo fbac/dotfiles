@@ -1,0 +1,10 @@
+# ALIAS
+alias fuck='sudo $(history -p \!\!)'
+alias cd=cdcode
+alias home='cd /home/aranda'
+alias httpstat='python /home/aranda/projects/bin/httpstat.py'
+alias gs='git status'
+alias ga='git add'
+alias gc='git commit'
+alias gp='git push'
+alias ip='ip -c'

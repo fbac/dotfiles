@@ -1,0 +1,8 @@
+# bash
+export HISTCONTROL=ignoreboth
+export HISTSIZE=10000
+
+# workflow
+export EDITOR=vim
+export GOPATH="${HOME}/go"
+export GOBIN="${GOPATH}/bin"
